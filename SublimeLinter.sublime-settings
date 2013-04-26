@@ -1,0 +1,16 @@
+{
+    "sublimelinter_executable_map":
+    {
+        "php": "/Applications/MAMP/bin/php/php5.4.10/bin/php"
+    },
+    "sublimelinter_disable":
+    [
+    	"css"
+    ],
+    "sublimelinter_delay": 1,
+    "sublimelinter_mark_style": "outline", // or "fill"
+    "sublimelinter_gutter_marks": false,
+    "sublimelinter_notes": true,
+    "sublimelinter_popup_errors_on_save": true
+
+}

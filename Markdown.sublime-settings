@@ -1,0 +1,9 @@
+{
+	"font_size": 13,
+	"wrap_width": 80,
+	"ignored_packages":
+	[
+		"Vintage",
+		"BracketHighlighter"
+	]
+}

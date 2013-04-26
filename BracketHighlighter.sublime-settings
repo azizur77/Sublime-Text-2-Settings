@@ -1,0 +1,28 @@
+{
+	//Scope? (Defined in theme files.) ->
+	//Examples: (keyword/string/number)
+	"quote_scope" : "entity.name.function",
+	"curly_scope" : "entity.name.function",
+	"round_scope" : "entity.name.function",
+	"square_scope": "entity.name.function",
+	"angle_scope" : "entity.name.function",
+	"tag_scope"   : "entity.name.tag",
+
+	//Outline? (solid/outline/underline/none) ->
+	"quote_style" : "underline",
+	"curly_style" : "underline",
+	"round_style" : "underline",
+	"square_style": "underline",
+	"angle_style" : "underline",
+	"tag_style"   : "none",
+
+	//Icon? (dot/circle/bookmark/cross)
+	"quote_icon" : "dot",
+	"curly_icon" : "dot",
+	"round_icon" : "dot",
+	"square_icon": "dot",
+	"angle_icon" : "dot",
+	"tag_icon"   : "dot",
+
+	"debounce_delay" : 10
+}

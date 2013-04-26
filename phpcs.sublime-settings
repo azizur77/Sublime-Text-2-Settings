@@ -1,0 +1,15 @@
+{
+    "show_debug": false,
+    "phpcs_execute_on_save": false,
+    "phpcs_linter_run": false,
+    "phpcs_linter_command_on_save": false,
+
+    "phpcs_executable_path": "/Volumes/Sidekick/_Backup/Sys/usr/local/pear/bin/phpcs",
+    "phpcs_php_path": "/Volumes/Sidekick/_Backup/Sys/usr/local/pear/bin/phpcs",
+
+
+    // PHP Mess Detector settings
+    "phpmd_run": false,
+    "phpmd_command_on_save": false,
+    "phpmd_executable_path": "/Volumes/Sidekick/_Backup/Sys/usr/local/pear/bin/phpmd"
+}

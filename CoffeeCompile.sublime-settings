@@ -1,0 +1,6 @@
+{
+	"coffee_path": "/usr/local/bin/coffee",
+	"node_path": "/usr/local/bin/node",
+	"bare": false,
+	"coffee_executable": "coffee"
+}

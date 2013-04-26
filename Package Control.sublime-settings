@@ -1,0 +1,53 @@
+{
+	"installed_packages":
+	[
+		"Alignment",
+		"BracketHighlighter",
+		"CoffeeCompile",
+		"CTags",
+		"DashDoc",
+		"Dayle Rees Color Schemes",
+		"Debug Killer",
+		"DetectSyntax",
+		"DocBlockr",
+		"Emmet",
+		"Emmet Css Snippets",
+		"FileDiffs",
+		"flatland",
+		"Git",
+		"GitGutter",
+		"Hipster Ipsum",
+		"HyperlinkHelper",
+		"INI",
+		"JavaScript Console",
+		"Laravel Generator",
+		"laravel-blade",
+		"LESS",
+		"MacTerminal",
+		"Markboard",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Nettuts+ Fetch",
+		"Package Control",
+		"PHP Namespace Command",
+		"Phpcs",
+		"PHPUnit Completions",
+		"ReadmePlease",
+		"Search WordPress Codex",
+		"SFTP",
+		"SideBarEnhancements",
+		"SmartMarkdown",
+		"sublime-better-coffeescript",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"Tag",
+		"Theme - Soda",
+		"Tomorrow Color Schemes",
+		"Twitter Bootstrap Snippets",
+		"Wordpress"
+	],
+	"repositories":
+	[
+		"https://github.com/thinkpixellab/flatland/"
+	]
+}
