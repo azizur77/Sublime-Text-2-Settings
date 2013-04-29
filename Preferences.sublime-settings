@@ -7,6 +7,7 @@
 	"detect_slow_plugins": false,
 	"draw_minimap_border": false,
 	"draw_white_space": "selection",
+	"ensure_newline_at_eof_on_save": true,
 	"fade_fold_buttons": false,
 	"file_exclude_patterns":
 	[
@@ -26,7 +27,6 @@
 		"_build",
 		".settings"
 	],
-	"ensure_newline_at_eof_on_save": true,
 	"font_face": "Ubuntu Mono",
 	"font_options":
 	[
@@ -39,6 +39,7 @@
 	"hot_exit": false,
 	"ignored_packages":
 	[
+		"DetectSyntax",
 		"Vintage"
 	],
 	"line_padding_bottom": 4,
