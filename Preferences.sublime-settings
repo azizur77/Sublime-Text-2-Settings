@@ -18,6 +18,7 @@
 		"composer.lock"
 	],
 	"find_selected_text": true,
+	"flatland_square_tabs": true,
 	"folder_exclude_patterns":
 	[
 		".svn",
@@ -45,13 +46,35 @@
 	"line_padding_bottom": 4,
 	"line_padding_top": 4,
 	"margin": 2,
-	"remember_open_files": false,
+	"remember_open_files": true,
 	"rulers":
 	[
 	],
 	"scroll_past_end": true,
 	"show_tab_close_buttons": true,
 	"theme": "Flatland.sublime-theme",
+	"todo":
+	{
+		"case_sensitive": true,
+		"file_exclude_patterns":
+		[
+			"*.rb",
+			"*.py"
+		],
+		"folder_exclude_patterns":
+		[
+			"vendor",
+			"tmp",
+			"libs"
+		],
+		"patterns":
+		{
+			"CHANGED": "@CHANGED[\\s]*?:+(?P<changed>\\S.*)$",
+			"FIXME": "@FIX ?ME[\\s]*?:+(?P<fixme>\\S.*)$",
+			"NOTE": "@NOTE[\\s]*?:+(?P<note>.*)$",
+			"TODO": "@TODO[\\s]*?:+(?P<todo>.*)$"
+		}
+	},
 	"trim_trailing_white_space_on_save": true,
 	"use_simple_full_screen": true,
 	"word_separators": "./\\()\"':,.;<>~!@#$%^&*|+=[]{}`~?",

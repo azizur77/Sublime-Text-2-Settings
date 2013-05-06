@@ -2,6 +2,7 @@
 	"installed_packages":
 	[
 		"Alignment",
+		"ApacheConf.tmLanguage",
 		"BracketHighlighter",
 		"CoffeeCompile",
 		"CTags",
@@ -10,7 +11,6 @@
 		"Debug Killer",
 		"DetectSyntax",
 		"DocBlockr",
-		"Edit History",
 		"Emmet",
 		"Emmet Css Snippets",
 		"FileDiffs",
@@ -40,6 +40,7 @@
 		"sublime-better-coffeescript",
 		"SublimeCodeIntel",
 		"SublimeLinter",
+		"SublimeTODO",
 		"Tag",
 		"Theme - Soda",
 		"Tomorrow Color Schemes",

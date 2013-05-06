@@ -1,6 +1,7 @@
 {
 	"font_size": 13,
-	"wrap_width": 80,
+	"word_wrap": true,
+	"wrap_width": 100,
 	"ignored_packages":
 	[
 		"Vintage",
