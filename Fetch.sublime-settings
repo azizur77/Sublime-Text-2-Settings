@@ -9,6 +9,8 @@
 	{
 		"bootstrap": "http://twitter.github.com/bootstrap/assets/bootstrap.zip",
 		"html5_boilerplate": "https://github.com/h5bp/html5-boilerplate/zipball/master",
-		"wordpress": "http://wordpress.org/latest.zip"
+		"laravel4": "https://github.com/laravel/laravel/archive/develop.zip",
+		"wordpress": "http://wordpress.org/latest.zip",
+		"wordpress_plugin_boilerplate": "https://github.com/tommcfarlin/WordPress-Plugin-Boilerplate/archive/master.zip"
 	}
 }

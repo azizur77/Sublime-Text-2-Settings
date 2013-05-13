@@ -8,9 +8,12 @@
     	"css"
     ],
     "sublimelinter_delay": 1,
-    "sublimelinter_mark_style": "outline", // or "fill"
-    "sublimelinter_gutter_marks": false,
+    "sublimelinter_mark_style": "fill", // or "fill"
+    "sublimelinter_gutter_marks": true,
+    "sublimelinter_gutter_marks_theme": "hard",
     "sublimelinter_notes": true,
-    "sublimelinter_popup_errors_on_save": true
+    "sublimelinter_popup_errors_on_save": true,
+
+    "annotations": ["@TODO", "@README", "@FIXME", "@DEBUG"]
 
 }
