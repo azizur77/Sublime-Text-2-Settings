@@ -11,5 +11,6 @@
 	{ "keys": ["ctrl+super+r"], "command": "reveal_in_side_bar" },
 	{ "keys": ["super+v"], "command": "paste_and_indent" },
 	{ "keys": ["super+shift+v"], "command": "paste" },
+	{ "keys": ["alt+super+d"], "command": "find_all_under" },
 	{ "keys": ["ctrl+shift+m"], "args": { "action": "matching_pair" }, "command": "run_emmet_action", "context": [{ "key": "emmet_action_enabled.matching_pair" }] }
 ]

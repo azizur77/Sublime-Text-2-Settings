@@ -40,7 +40,9 @@
 	"hot_exit": false,
 	"ignored_packages":
 	[
-		"Vintage"
+		"Vintage",
+		"sublime-better-coffeescript",
+		"LiveReload"
 	],
 	"line_padding_bottom": 4,
 	"line_padding_top": 4,
@@ -51,7 +53,7 @@
 	],
 	"scroll_past_end": true,
 	"show_tab_close_buttons": true,
-	"theme": "Flatland.sublime-theme",
+	"theme": "Flatland Dark.sublime-theme",
 	"todo":
 	{
 		"case_sensitive": true,

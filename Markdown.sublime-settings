@@ -7,5 +7,6 @@
 		"Vintage",
 		"BracketHighlighter",
 		"SmarkMarkdown"
-	]
+	],
+	"spell_check": true
 }

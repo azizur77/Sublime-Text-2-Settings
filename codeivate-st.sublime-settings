@@ -1,0 +1,11 @@
+{
+	"dialog": false,
+	"growl_active": true,
+	"machine_name": "Abraham Cardosa",
+	"notify_send_active": true,
+	"notify_send_path": "/usr/bin/notify-send",
+	"pushover_active": false,
+	"pushover_user_id": "",
+	"user_id": "b8937ec1dbc396e45cbde2773a958e3609feec06",
+	"user_token": "9667cf9292d75d9f705831c463ae58887dde006c"
+}
