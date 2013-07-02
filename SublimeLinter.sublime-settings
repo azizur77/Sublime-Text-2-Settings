@@ -3,10 +3,10 @@
     {
         "php": "/Applications/MAMP/bin/php/php5.4.10/bin/php"
     },
-    /*"sublimelinter_disable":
+    "sublimelinter_disable":
     [
     	"css"
-    ],*/
+    ],
     /*"sublimelinter_syntax_map":
     {
         "LESS": "css"
