@@ -8,5 +8,7 @@
 		"BracketHighlighter",
 		"SmarkMarkdown"
 	],
-	"spell_check": true
+	"spell_check": true,
+	"color_scheme": "Packages/Color Scheme - Default/Dawn.tmTheme",
+	"trim_trailing_white_space_on_save": false
 }

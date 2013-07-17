@@ -1,0 +1,4 @@
+{
+	"cmd": ["multimarkdown -b -t odf ${file_name}"],
+	"shell": true
+}

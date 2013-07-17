@@ -9,7 +9,6 @@
 		"Backbone.js",
 		"Blade Snippets",
 		"BracketHighlighter",
-		"codeivate-st",
 		"CoffeeCompile",
 		"Color Highlighter",
 		"ColorPicker",
@@ -31,7 +30,6 @@
 		"Laravel Blade Highlighter",
 		"Laravel Color Scheme",
 		"Laravel Generator",
-		"laravel-blade",
 		"LESS",
 		"LiveReload",
 		"Logs Colorize",
@@ -56,7 +54,8 @@
 		"Theme - Soda",
 		"Tomorrow Color Schemes",
 		"Twitter Bootstrap Snippets",
-		"Wordpress"
+		"Wordpress",
+		"Worksheet"
 	],
 	"repositories":
 	[
