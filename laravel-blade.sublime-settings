@@ -1,0 +1,6 @@
+{
+    // Characters that are considered to separate words
+    //  this is modified from the default with the $ removed
+    //  this allows PHP variables to be treated as words
+    "word_separators": "./\\()\"'-:,.;<>~!#%^&*|+=[]{}`~?"
+}

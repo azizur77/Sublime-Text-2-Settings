@@ -41,6 +41,7 @@
 	"ignored_packages":
 	[
 		"Vintage",
+		"codeivate-st",
 		"sublime-better-coffeescript",
 		"LiveReload"
 	],
